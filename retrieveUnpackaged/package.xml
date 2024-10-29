@@ -12,5 +12,13 @@
         <members>*</members>
         <name>ApexTrigger</name>
     </types>
+    <types>
+        <members>DreamWorld__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomTab</name>
+    </types>
     <version>62.0</version>
 </Package>
